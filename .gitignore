@@ -1,0 +1,9 @@
+/bin
+LibraryAPI/bin
+LibraryAPI/.vs
+LibraryAPI/obj
+LibraryManagement/.angular
+LibraryManagement/.vscode
+LibraryManagement/node_modules
+
+LibraryApp/.idea/
